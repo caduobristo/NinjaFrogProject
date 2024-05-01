@@ -1,9 +1,6 @@
-Sistema Operacional: Windows
-Compilador: MinGW 9.2.0
-Biblioteca Gráfica: SFML 2.5.1
+Instruções para configurar o projeto no seu Visual Studio
 
-Segue instruções para configurar o projeto no seu Visual Studio
-
+- Descopacte o arquivo SFM-2.5.1.zip.
 - Primeiro execute o arquivo .sln para abrir o projeto no Visual Studio.
 - Certifique-se que a plataforma de solução ativa do seu Visual Studio seja x86.
 - Vá em propriedades do projeto ou pressione alt + enter, em Propriedades de Configuração, C/C++, Geral, Diretório de Inclusão Adicionais, 
